@@ -1,0 +1,1 @@
+This is a Pac Man game made with HTML and CSS with pure vanilla Javascript. No frameworks were used.
